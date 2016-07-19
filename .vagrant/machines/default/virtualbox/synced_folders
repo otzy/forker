@@ -1,0 +1,1 @@
+{"virtualbox":{"/forker":{"guestpath":"/forker","hostpath":"C:/php_projects/forker/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/php_projects/forker","disabled":false,"__vagrantfile":true}}}
